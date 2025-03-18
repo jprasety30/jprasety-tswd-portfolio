@@ -11,25 +11,16 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hello! My name is Jonathan Bryan Prasetyo, I am enrolled in the MISM-BIDA 16 month track. I got my undergraduate degree from University of Washington-Seattle, majoring in Informatics with a focus in Data Science. My interests include football (soccer), movies, and video games. 
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
+Listed below are the things I hope to learn from this course:
 
-1. List item #1
-2. List item #2
-3. List item #3
-
-or...
-
-- List item #1
-- List item #2
-- List item #3
+- How to tell compelling stories through insightful data visualizations that conforms to proper design norms.
+- Understand how to properly critique data visualizations, while also giving meaningful and detailed feedback to improve upon.
+- Learn about color theory, I'm not very artistic as a person so choosing the right color combination is something that I've struggled with most.
 
 # Portfolio
-
-# Examples
-You can keep this section for stuff from in-class demos or your other work, or remove it. 
 
 ## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
