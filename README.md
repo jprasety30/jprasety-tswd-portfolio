@@ -1,8 +1,6 @@
 | [home page](https://jprasety30.github.io/jprasety-tswd-portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# TSWD-portfolio-templates
-These portfolio templates are for setting up your Telling Stories with Data site.  Edit these pages and add new ones as needed.   
-It's always helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
+# Welcome to Jonathan's TSWD Portfolio!
 
 - Web page URL: https://jprasety30.github.io/jprasety-tswd-portfolio/
 - This repository: https://github.com/jprasety30/jprasety-tswd-portfolio/
@@ -11,14 +9,18 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
-Hello! My name is Jonathan Bryan Prasetyo, I am enrolled in the MISM-BIDA 16 month track. I got my undergraduate degree from University of Washington-Seattle, majoring in Informatics with a focus in Data Science. My interests include football (soccer), movies, and video games. 
+Hello! My name is Jonathan Bryan Prasetyo, and I am currently pursuing my Master of Information Systems Management – Business Intelligence and Data Analytics (MISM-BIDA) in the 16-month track at Carnegie Mellon University. I hold a Bachelor's degree in Informatics with a focus on Data Science from the University of Washington-Seattle.
+
+I am passionate about leveraging data to uncover insights, tell compelling stories, and drive impactful decisions. My work bridges the gap between raw data and meaningful narratives, combining analytical rigor with visual storytelling to make complex information accessible and actionable.
+
+Beyond data, I have a deep appreciation for football (soccer), movies, and video games, which inspire my approach to storytelling—whether it's analyzing player performance, exploring cinematic trends, or uncovering gaming industry insights.
 
 # What I hope to learn
 Listed below are the things I hope to learn from this course:
 
-- How to tell compelling stories through insightful data visualizations that conforms to proper design norms.
-- Understand how to properly critique data visualizations, while also giving meaningful and detailed feedback to improve upon.
-- Learn about color theory, I'm not very artistic as a person so choosing the right color combination is something that I've struggled with most.
+- Effective Data Visualization Techniques: Learning how to design clear, engaging, and impactful visualizations that effectively communicate insights to both technical and non-technical audiences.
+- Narrative-Driven Data Storytelling: Developing the ability to craft compelling stories with data by structuring insights in a way that resonates with stakeholders and drives decision-making.
+- Tools & Technologies for Data Communication: Gaining hands-on experience with industry-standard tools such as Tableau, Power BI, or Python visualization libraries (e.g., Matplotlib, Seaborn, Plotly) to transform raw data into meaningful and visually appealing reports.
 
 # Portfolio
 
