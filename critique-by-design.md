@@ -1,18 +1,39 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Title
-Text here...
-
-_For each step below, you should document your progress as you move forward.  In terms of tone, think of the writeup as though you're keeping journal of your step-by-step process.   You should include a any insights you gained from the critique method, and what it led you to think about when considering the redesign.  You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently._
-
-_You can include screenshots, sketches or other artifacts with your narrative to help tell the story of how you moved through the process.  Again, make sure to avoid including any personally identifying information about your interviewees (don't list full names, etc.).  While this template serves as a guide, make sure to reference the assignment writeup on Canvas for the official guidance.  This template does not include all guidance mentioned on the assignment page._
+# Critique by Design
 
 ## Step one: the visualization
 
 _Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
 
+- Title: Top 10 Countries by Military Spending 
+- Link: (https://www.visualcapitalist.com/ranked-top-10-countries-by-military-spending/)
+
+The reason why I chose this particular data visualization is because military expenditure is a controversial discourse that is often talked about in social media, but I've never seen concrete data behind these claims until this visualization. This visualization manages to tell a serious and controversial topic, in a simple and compelling way, which peaked my interest.
+
 ## Step two: the critique
-_Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
+
+### Describe your overall observations about the data visualization here.  What stood out to you?  What did you find worked really well?  What didn't work well?
+
+What stood out immediately was the big pie chart taking center stage and the strong thematic coherence throughout the infographic. The use of toy soldiers, military green color palette, and stencil-style fonts reinforce the subject matter in a compelling way. These elements, while playful, create a visual metaphor that makes complex topics like global military expenditure more approachable and appealing to the broader audience.
+
+I think what really worked well in this chart is its clear labeling for each of the top 10 countries, as it includes the absolute dollar value and percentage of global spending. The visual prominence of the U.S. and China reflects their dominating roles in global military spending. The supplementary details, such as China and U.S. accounting for more than 50% of global spending, China’s continuous growth, and the total spending in 2021 being $2.1 trillion, are helpful in providing context to the numbers further and add depth without overwhelming the primary focus of the chart.
+
+However, the visualization lacked in some aspects. The use of radial partition layout within the pie chart makes it hard to compare countries with similar expenditures. For example, France, Germany, and Saudi Arabia all fall into similar spending range, but irregular shapes of their wedges distort direct comparisons. While this issue is mitigated with clear proportion labelling for each country portion, the viewers might visually misinterpret relative sizes. Another limitation is the lack of historical data or trend. The visualization is static, only presents 2021. This misses an opportunity to highlight how military expenditures have evolved over time or which countries are rapidly increasing their budgets. 
+
+### Who is the primary audience for this tool?  Do you think this visualization is effective for reaching that audience?  Why or why not?
+
+The primary audience would likely be the general, educated public with some interest in global affairs, international relations, defense economics, or politics in general. It’s relevant to journalists, students, researchers, and educators who want a quick and brief understanding of the global military spending landscape by the most dominant military driven countries.
+
+For this purpose, I think the visualization is highly effective. It meets the audience’s needs by simplifying the complex topic of military expenditure into a single, visually compelling pie chart. The use of country flags, clear numerical values, and annotations highlighting trends/context supports casual exploration into the topic. Furthermore, it’s visually appeal and polish is good enough for use in media, presentations, and educational materials, appropriate for the wider audience.
+
+### Based on your critique, what do you think you'll try to focus on in your redesign?   Any ideas or inspiration for how you can make a better data visualization?  What are you excited to try next?
+
+For my redesign, I would focus on first trying to fix the radial area wedges layout used in the pie chart. While a regular pie chart might not work because it would stack the countries close together giving no room to add labels, something like a tree-map might work to better show the proportions accurately and leaves room for labeling. Given the target audience being the general public, I think that simplifying the information shown would be crucial to appeal to them. So, I think that re-focusing narrative of showing the U.S. and China's dominance in the world military spending would be a good start to redesign this chart.
+
+I would also aim to fix the missed opportunity to show historical data and trends. This could be incorporated by a simple slider that would allow users to filter the expenditure based on a set range of years. This would allow for more historical context and reveal long-term patterns, which were otherwise not shown. 
+
+That being said, I am excited to try out the various interactive features that I can incorporate in my redesign such as slider filters, hover over segments to get deeper insights, or filtering by region. I think by adding a layer of interactivity to the audience, it help add depth to the chart and broaden the engagement of the chart to both the casual and expert segment of the audience. 
 
 ## Step three: Sketch a solution
 
