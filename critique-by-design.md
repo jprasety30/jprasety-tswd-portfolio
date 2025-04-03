@@ -49,9 +49,7 @@ So for my solution, I feel like the important story that I would like to tell is
 
 ## Step four: Test the solution
 
-_Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
-
-Questions to ask (modify these for your own interviews): 
+Questions used for interviews: 
 
 - Can you tell me what you think this is?
 
@@ -70,21 +68,29 @@ _Don't identify or share personally identifiable information (PII) about the peo
 
 | Question | Interview 1 | Interview 2 |
 |----------|-------------|-------------|
-|          |             |             |
-|          |             |             |
-|          |             |             |
-
+|What is this?|A chart showing countries' military spending|             |
+|What is it telling you?|             |             |
+|Anything surprising/confusing?|             |             |
+|Who is the intended audience?|             |             |
+|What would you change? |             |             |
 Synthesis: 
 
 _What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
 
 ## Step five: build the solution
 
-_Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
+<div class='tableauPlaceholder' id='viz1743643073023' style='position: relative'><noscript><a href='#'><img alt='Global Military Spending in 2021: The US Outspends the WorldThe United States alone accounts for over half of all global military spending, with China and India rounding out the top three. This chart reveals how military budgets are distributed among leading nations.(Source: https:&#47;&#47;www.visualcapitalist.com&#47;ranked-top-10-countries-by-military-spending&#47;) ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Mi&#47;MilitarySpendingFinal&#47;Sheet13&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='MilitarySpendingFinal&#47;Sheet13' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Mi&#47;MilitarySpendingFinal&#47;Sheet13&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                
+<script type='text/javascript'>                    
+  var divElement = document.getElementById('viz1743643073023');                    
+  var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
+  var scriptElement = document.createElement('script');                    
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
 
 ## References
-_List any references you used here._
+- https://www.visualcapitalist.com/ranked-top-10-countries-by-military-spending/
+- https://data.world/makeovermonday/2022w35 
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
-
+I used AI to fix grammar and workflow for some of my answers.
