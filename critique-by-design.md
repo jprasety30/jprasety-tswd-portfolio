@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://jprasety30.github.io/jprasety-tswd-portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Critique by Design
 
@@ -49,7 +49,7 @@ So for my solution, I feel like the important story that I would like to tell is
 
 ## Step four: Test the solution
 
-Questions used for interviews: 
+### Questions used for interviews: 
 
 - Can you tell me what you think this is?
 
@@ -61,23 +61,34 @@ Questions used for interviews:
 
 - Is there anything you would change or do differently?
 
-Results: 
+### Results: 
 
-_Don't identify or share personally identifiable information (PII) about the people you spoke to._
-
-
-| Question | Interview 1 | Interview 2 |
+| Question | Interview 1 (In-class Critique) | Interview 2 (UW HCDE student)|
 |----------|-------------|-------------|
-|What is this?|A chart showing countries' military spending|             |
-|What is it telling you?|             |             |
-|Anything surprising/confusing?|             |             |
-|Who is the intended audience?|             |             |
-|What would you change? |             |             |
-Synthesis: 
+|What is this?|A chart showing countries' military spending|Top 10 countries by military spending|
+|What is it telling you?|The U.S. spends the most by far|The U.S. dominates in military spending|
+|Anything surprising/confusing?|Surprised how much higher the U.S. is|Russia is surprisingly low, expected higher|
+|Who is the intended audience?|General public or students in politics/econ|General public, people with some interest in politics|
+|What would you change? |Use green colors, enlarge text, add dollar labels, |More relevant title to the narrative, add description to emphasize story, add country icons|
 
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
+### Synthesis: 
+Patterns in Feedback:
+- Both users clearly understood the core message of the visualization.
+- They identified the intended audience as the general public or those with interest in world affairs.
+- Feedback highlighted the need for stronger visual emphasis and storytelling—including a more descriptive title and use of thematic colors.
+- Both users suggested improving legibility by enlarging text and adding data labels.
+- One interviewee recommended adding icons or country markers for quicker recognition.
+
+Key Takeaways & Design Changes:
+- Switch to military green tones for thematic coherence.
+- Create a narrative-driven title that reinforces the key insight (e.g., "How the U.S. and China Outspend the World").
+- Increase font size to improve readability.
+- Add total dollar amounts inside each box to reinforce data accuracy.
+- Explore adding icons (such as flags or military symbols) for visual interest and clearer country identification.
 
 ## Step five: build the solution
+
+In the final version of the visualization, I redesigned the chart using a tree map layout to improve perceptibility and comparison between countries. I changed the color palette to military-themed green tones to better align with the topic. The title was updated to be more narrative and informative, reflecting the central story of disproportionate global military spending. I also increased the font size for readability and included dollar amounts and percentage values directly within each country's box to provide clear, at-a-glance data. These changes enhance both the clarity and visual impact of the chart while making it easier for viewers to interpret and engage with the information. I decided to add a description to provide more emphasis and clarity to the story I'm trying to highlight. While adding country flags as icons was suggested during my interviews, I decided against it because it makes the blocks too cluttered and could be distracting, having the country names I believe is sufficient enough.
 
 <div class='tableauPlaceholder' id='viz1743643073023' style='position: relative'><noscript><a href='#'><img alt='Global Military Spending in 2021: The US Outspends the WorldThe United States alone accounts for over half of all global military spending, with China and India rounding out the top three. This chart reveals how military budgets are distributed among leading nations.(Source: https:&#47;&#47;www.visualcapitalist.com&#47;ranked-top-10-countries-by-military-spending&#47;) ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Mi&#47;MilitarySpendingFinal&#47;Sheet13&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='MilitarySpendingFinal&#47;Sheet13' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Mi&#47;MilitarySpendingFinal&#47;Sheet13&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                
 <script type='text/javascript'>                    
