@@ -70,7 +70,7 @@ So for my solution, I feel like the important story that I would like to tell is
 |What is it telling you?|The U.S. spends the most by far|The U.S. dominates in military spending|
 |Anything surprising/confusing?|Surprised how much higher the U.S. is|Russia is surprisingly low, expected higher|
 |Who is the intended audience?|General public or students in politics/econ|General public, people with some interest in politics|
-|What would you change? |Use green colors, enlarge text, add dollar labels, |More relevant title to the narrative, add description to emphasize story, add country icons|
+|What would you change? |Use green colors, enlarge text, give country label bold text, add dollar labels|More relevant title to the narrative, add description to emphasize story, add country icons|
 
 ### Synthesis: 
 Patterns in Feedback:
@@ -84,6 +84,7 @@ Key Takeaways & Design Changes:
 - Switch to military green tones for thematic coherence.
 - Create a narrative-driven title that reinforces the key insight (e.g., "How the U.S. and China Outspend the World").
 - Increase font size to improve readability.
+- Add bold font to country label to provide more emphasis.
 - Add total dollar amounts inside each box to reinforce data accuracy.
 - Explore adding icons (such as flags or military symbols) for visual interest and clearer country identification.
 
