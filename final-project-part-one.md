@@ -3,7 +3,7 @@
 
 # FINAL PROJECT 1: STUDENT LOAN DEBT by Major and Earnings
 
-# Outline
+## Outline
 > Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
  
 The cost of higher education in the U.S. has been rising steadily, but not all degrees offer equal financial returns. For many students, taking on debt is a necessity, yet whether that debt pays off can vary wildly by major. This project will explore the relationship between college majors, student loan debt, and post-graduation earnings, with the goal of answering a critical question: 
@@ -50,7 +50,7 @@ This data story will use government-provided and publicly accessible datasets an
 
 Text here...
 
-# The data
+## The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
 
 Text here...
@@ -63,7 +63,7 @@ Text here...
 |      |     |             |
 |      |     |             |
 
-# Method and medium
+## Method and medium
 > In a few sentences, you should document how you plan on completing your final project. 
 
 Text here...
