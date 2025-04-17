@@ -6,6 +6,7 @@ Based on feedback received from Part One, I decided to narrow down my focus on S
 link = https://collegescorecard.ed.gov/data   
 
 Storyboard: "The STEM Wealth Divide—Why Some Degrees Pay (and Others Don’t)"
+
 1. Hook: The Broken Promise of STEM
 
 The story opens by challenging the universal assumption that all STEM degrees guarantee financial success. This opening section sets the tone and introduces the central idea of the story: while STEM degrees are generally seen as high-return, the financial reality can vary significantly between specific fields. The visual should capture attention while previewing the tension between high and low ROI within STEM.
