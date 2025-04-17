@@ -5,23 +5,72 @@
 Storyboard: "The STEM Wealth Divide—Why Some Degrees Pay (and Others Don’t)"
 1. Hook: The Broken Promise of STEM
 
-The story opens by challenging the universal assumption that all STEM degrees guarantee financial success. A striking visual contrast—a split-screen of two graduates, one in tech and one in a lab—immediately frames the tension. The tech grad’s starting salary dwarfs the biologist’s, yet both were sold the same "STEM = prosperity" narrative. This section primes the audience to question which STEM paths actually deliver, using a bold callout: "Computer science grads out-earn biologists 3-to-1 in their first year—and carry less debt." The data here is U.S.-specific, focusing on Bachelor’s degrees to keep comparisons fair.
+The story opens by challenging the universal assumption that all STEM degrees guarantee financial success. This opening section sets the tone and introduces the central idea of the story: while STEM degrees are generally seen as high-return, the financial reality can vary significantly between specific fields. The visual should capture attention while previewing the tension between high and low ROI within STEM.
+
+- Shorthand Layout: Full-screen image of a graduation cap split down the middle—one side digital (CS), the other side test tubes (Biology).
+
+- Headline: "The STEM Wealth Divide—Why Some Degrees Pay (and Others Don’t)"
+
+- Subhead: "Engineering and computer science majors consistently deliver strong financial returns. But not all science degrees are created equal."
 
 2. The Winners: Tech, Health, and Engineering
 
-Here, we spotlight the STEM fields that live up to the hype. A dynamic bar chart reveals the top performers—computer science, nursing, and engineering tech—dominating with low debt-to-income ratios. The narrative emphasizes how these fields combine high demand with efficient training (e.g., two-year engineering tech programs rivaling four-year degrees). A key insight interrupts the celebration: "Not all engineering is equal. Civil engineers earn 20% less than electrical engineers straight out of school." This subtly nudges readers to dig deeper than broad categories.
+Here, we spotlight the STEM fields that live up to the hype. This part of the story identifies the STEM majors with the best financial outcomes, focusing on those with low debt and high early-career income. The goal is to give readers a clear look at which majors provide the strongest return on investment, setting a benchmark for comparison. A dynamic bar chart reveals the top performers, which might be tech—dominated, with low debt-to-income ratios. 
 
-3. The Hidden Risks: Biology and Physical Sciences
+(NOTE: Graph suject to change)
 
-The tone shifts as we expose the "STEM degrees that act like humanities majors" financially. A red-hued bar chart shows biology and chemistry grads saddled with debt disproportionate to their modest starting salaries. The story personalizes the data with a vignette: "Meet Alex, a biology grad with 42,000indebtanda42,000indebtanda31,000 lab tech job—priced out of renting alone in most cities." A secondary layer acknowledges that many science grads pursue advanced degrees, but notes the long-term gamble: "Even after a PhD, 40% of biologists earn under $60,000."
+<div class='tableauPlaceholder' id='viz1744258221408' style='position: relative'><noscript><a href='#'><img alt='Average Median Loan Amount by Area of Study ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Fi&#47;FinalProjectChart1&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='FinalProjectChart1&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Fi&#47;FinalProjectChart1&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    
+ var divElement = document.getElementById('viz1744258221408');                    
+ var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
+ var scriptElement = document.createElement('script');                    
+ scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+ vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
+
+3. The Hidden Risks: Underperforming STEM majors with low earnings
+
+Here, the story shifts to highlight STEM majors that may carry financial risk—those with high debt loads and comparatively low earnings. This contrast builds narrative tension and emphasizes that not all STEM degrees are equally rewarding.
+
+(NOTE: Graph suject to change)
+
+- Subheading: "Biology and Physical Sciences: The Hidden Risk"
+
+- Visualization: Horizontal bar chart of underperforming STEM majors
+
+- Color: Red gradient (high ratio = poor ROI), Green gradient (low ratio = good ROI)
+
+- Callout Boxes: Add tooltips or text blocks showing specific earnings and debt numbers
+
+<div class='tableauPlaceholder' id='viz1744258483650' style='position: relative'><noscript><a href='#'><img alt='Median Earnings of Areas of Study ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Fi&#47;FinalProjectChart2_17442584742100&#47;Sheet2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='FinalProjectChart2_17442584742100&#47;Sheet2' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Fi&#47;FinalProjectChart2_17442584742100&#47;Sheet2&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
+<script type='text/javascript'>                    
+ var divElement = document.getElementById('viz1744258483650');                    
+ var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
+ var scriptElement = document.createElement('script');                    
+ scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+ vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
 
 4. The Big Picture: Mapping the STEM Landscape
 
-A scatterplot visualizes the stark divide, plotting majors by earnings and debt. Computer science and health fields cluster in the "low debt, high income" quadrant, while biology and physics hover near "high debt, low income"—dangerously close to non-STEM fields. Reference lines underscore the median STEM salary (45,000)anddebt(45,000)anddebt(30,000), revealing how many "science" grads fall short. The takeaway is clear: "STEM isn’t a single ladder to prosperity—it’s a fork in the road."
+A scatterplot visualizes the stark divide, plotting majors by earnings and debt. This visual section brings the contrast full circle by mapping all STEM majors on a quadrant chart. It helps readers visually distinguish between high-return and high-risk majors, reinforcing the central argument that 'STEM' is not a one-size-fits-all financial decision.
+
+(NOTE: Graph suject to change)
+
+<div class='tableauPlaceholder' id='viz1744258777620' style='position: relative'><noscript><a href='#'><img alt='Debt-to-Income Ratio by Area of Study ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Fi&#47;FinalProjectChart3&#47;Sheet3&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='FinalProjectChart3&#47;Sheet3' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Fi&#47;FinalProjectChart3&#47;Sheet3&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    
+ var divElement = document.getElementById('viz1744258777620');                    
+ var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
+ var scriptElement = document.createElement('script');                    
+ scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+ vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
 
 5. The So-What: Choosing with Clarity
 
-The conclusion avoids prescriptive advice, instead urging readers to marry passion with pragmatism. A side-by-side comparison of the top- and bottom-performing majors reinforces the stakes, while a final interactive element invites exploration: "How does your major stack up?" links to a tool filtering earnings and debt by field. The story closes with a provocative question: "When a biology degree costs like an engineer’s but pays like an artist’s—is it still STEM?"*
+This section wraps up the narrative with a reflection on the broader implications of the data. It encourages readers—especially prospective students—to think critically about how their major choice impacts long-term financial health, and offers a visual summary to drive the point home.
+
+- Text Block: "While STEM still leads in overall financial return, new grads should look carefully at which science or tech fields they pursue. Not all offer the same payoff."
+
+- Visual: Summary graphic (Top 3 ROI majors vs. Bottom 3)
 
 # User research 
 
