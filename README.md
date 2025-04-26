@@ -24,6 +24,8 @@ Listed below are the things I hope to learn from this course:
 
 # Portfolio
 
+## In Class Examples: [Data Visualization Examples](dataviz-examples)
+
 ## Assignment #1: [Visualizing Government Debt](visualizing-government-debt)
 An assignment I did redesigning Government Debt Visualization.
 
