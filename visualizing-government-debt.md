@@ -20,3 +20,10 @@
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+
+## Final Thoughts
+For my redesign, I wanted to shift the focus from the broad and dense heatmap to something more refined that highlights the top contributors to government debt as percentage of GDP over time. The original dataset covered dozens of countries, which made the heatmap visually overwhelming and hard to interpret at first glance. So to address this, I chose to work with a subset of the data, specifically the top five countries with the highest cumulative government debt (as percentage of GDP) over the available time period. This allows me to zoom in on key players and trace their debt trajectories without being too overwhelming.
+
+Rather than relying on a color grid, I used a line chart with different colors representing each country to emphasize the trends and change over time for the top five countries. This format allows me to highlight the rise and fall of each country's debt profile. I ensured to add as much detail to my title as possible for clarity. I relabeled the axes to match their values. Compared to the heatmap, this redesign in more effective in a way that places emphasis on specific countries rather than the dataset as a whole. It facilitates pattern recognition better as trends are visible through the lines, and comparison is visually easier to interpret.
+
+AI usage: Used AI to correct grammar and word flow. 
