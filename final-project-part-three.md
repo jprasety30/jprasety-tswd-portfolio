@@ -1,8 +1,8 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # The final data story
-preview link: https://preview.shorthand.com/1TjgTolbvvKDqNeg
-link to shorthand: https://carnegiemellon.shorthandstories.com/the-stem-wealth-divide/index.html
+- preview link: https://preview.shorthand.com/1TjgTolbvvKDqNeg
+- link to shorthand: https://carnegiemellon.shorthandstories.com/the-stem-wealth-divide/index.html
 
 # Changes made since Part II
 To improve the clarity and interpretability of my visualizations, I made several key enhancements across all major graphs. First, for the bar charts displaying the Top 10 lowest and Top 10 highest Debt-to-Income (DTI) majors, I added concise captions that explain the meaning of DTI in plain terms. These captions clarify that a lower DTI indicates stronger financial outcomes, where graduates earn more relative to their debt, while a higher DTI suggests potential financial strain.
